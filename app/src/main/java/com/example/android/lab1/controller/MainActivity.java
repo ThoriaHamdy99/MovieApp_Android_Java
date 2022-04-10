@@ -8,8 +8,8 @@ import android.view.View;
 import android.widget.Button;
 
 import com.example.android.lab1.R;
-import com.example.android.lab1.allMovies.controller.MoviesActivity;
-import com.example.android.lab1.favouriteMovies.controller.FavouriteActivity;
+import com.example.android.lab1.allMovies.view.MoviesActivity;
+import com.example.android.lab1.favouriteMovies.view.FavouriteActivity;
 
 public class MainActivity extends AppCompatActivity {
 

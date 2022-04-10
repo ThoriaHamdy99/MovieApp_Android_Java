@@ -23,11 +23,11 @@
         </activity>
 
         <activity
-            android:name=".allMovies.controller.MoviesActivity"
+            android:name=".allMovies.view.MoviesActivity"
             android:exported="true"
             android:label="All Movies"/>
         <activity
-            android:name=".favouriteMovies.controller.FavouriteActivity"
+            android:name=".favouriteMovies.view.FavouriteActivity"
             android:exported="true"
             android:label="Favorites"/>
 
