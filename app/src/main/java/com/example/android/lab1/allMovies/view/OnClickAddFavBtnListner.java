@@ -1,4 +1,4 @@
-package com.example.android.lab1.allMovies.model;
+package com.example.android.lab1.allMovies.view;
 
 import com.example.android.lab1.data.model.Movie;
 

@@ -14,7 +14,6 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
 import com.example.android.lab1.R;
-import com.example.android.lab1.allMovies.model.OnClickAddFavBtnListner;
 import com.example.android.lab1.data.model.Movie;
 
 import java.util.List;

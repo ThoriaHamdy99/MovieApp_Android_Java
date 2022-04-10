@@ -43,10 +43,10 @@
 
     <Button
         android:id="@+id/exiteBtn"
-        android:layout_width="302dp"
-        android:layout_height="55dp"
+        android:layout_width="293dp"
+        android:layout_height="57dp"
         android:layout_marginTop="20dp"
-        android:text="Exite"
+        android:text="Exit"
         app:layout_constraintStart_toStartOf="@+id/getFavouriteMoviesBtn"
         app:layout_constraintTop_toBottomOf="@+id/getFavouriteMoviesBtn" />
 </androidx.constraintlayout.widget.ConstraintLayout>

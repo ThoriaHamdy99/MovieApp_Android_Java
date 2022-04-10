@@ -1,4 +1,4 @@
-package com.example.android.lab1.favouriteMovies.model;
+package com.example.android.lab1.favouriteMovies.view;
 
 
 import com.example.android.lab1.data.model.Movie;
